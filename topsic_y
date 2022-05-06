@@ -1,3 +1,5 @@
+#文字列の一致
+
 S = input().lower()
 T = input().lower()
 
