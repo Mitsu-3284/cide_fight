@@ -4,7 +4,7 @@ S = input().lower()
 T = input().lower()
 
 if S == T:
-    print("Yes")
+    print("YES")
 
 else :
-    print("No")
+    print("NO")
