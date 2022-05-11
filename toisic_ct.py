@@ -18,4 +18,6 @@ for a in range(N):
     if (a + 1) % 4 == 0 :
         y = y + C[a]
 
+
+
 print(x, y)
