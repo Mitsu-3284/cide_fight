@@ -10,6 +10,5 @@ for x in range(1,N):
     
     else:
         a = a + 1
-        break
 
 print(a)
