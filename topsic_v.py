@@ -3,12 +3,12 @@
 N = int(input())
 S = input()
 
-a = 1
-for x in range(1,N):
-    if S[x] == S[0]:
-        continue
-    
-    else:
-        a = a + 1
+a = ""
+b = 0
 
-print(a)
+for x in S:
+    if a != x:
+        b = b + 1
+        a = x
+        
+print(b)
