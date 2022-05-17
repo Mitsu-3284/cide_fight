@@ -7,7 +7,7 @@ m = G - (N * G - A) // ((N + 1) // 2)
 if M >= G :
     M = G
 
-if m >= G :
-    m = G
+if m <= 0 :
+    m = 0
     
 print(M, m)
