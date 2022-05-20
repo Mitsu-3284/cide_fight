@@ -1,7 +1,7 @@
 #数列の操作
 
 N = int(input())
-A = list(map(int,input().split()))
+A = sorted(list(map(int,input().split())))
 B = sorted(list(map(int,input().split())))
 a = 0
 
