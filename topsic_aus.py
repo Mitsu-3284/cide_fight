@@ -22,3 +22,7 @@ for y in range(N) :
         a = a + max(0, A[y+1] - A[y])
 
 print(a)
+
+
+j
+
