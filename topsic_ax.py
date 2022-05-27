@@ -6,3 +6,7 @@ N = int(input())
 a = "a" * N + S
 
 print(a)
+
+
+j
+
